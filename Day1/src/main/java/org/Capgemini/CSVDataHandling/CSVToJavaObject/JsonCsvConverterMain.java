@@ -1,20 +1,15 @@
 package org.Capgemini.CSVDataHandling.CSVToJavaObject;
 
+
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvException;
 import org.json.JSONArray;
 import org.json.JSONObject;
-
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.io.*;
-import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import org.json.JSONArray;
-import org.json.JSONObject;
 import static java.lang.System.out;
 
 class CsvToJsonConverter {
