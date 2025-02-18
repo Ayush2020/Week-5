@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="903e93f5-c286-492b-b865-f3e4c1f9def8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/Capgemini/CSVDataHandling/CSVToJavaObject/JsonCsvConverterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/Capgemini/CSVDataHandling/CSVToJavaObject/JsonCsvConverterMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2tCi99Ci8ueDxTelrM7HurPbDd7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CSVFromDatabase.executor": "Run",
+    "Application.CSVToJavaObject.executor": "Run",
+    "Application.CountRowsCSV.executor": "Run",
+    "Application.DetectDuplicates.executor": "Run",
+    "Application.EncryptDecrypt.executor": "Run",
+    "Application.FilterCSV.executor": "Run",
+    "Application.JsonCsvConverterMain.executor": "Run",
+    "Application.MergeCSV.executor": "Run",
+    "Application.ModifyCSV.executor": "Run",
+    "Application.ReadCSV.executor": "Run",
+    "Application.ReadLargeCSV.executor": "Run",
+    "Application.SearchInCSV.executor": "Run",
+    "Application.SortCSV.executor": "Run",
+    "Application.ValidateCSV.executor": "Run",
+    "Application.WriteCSV.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Day1",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/IntelliC/Week5/Day1/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="903e93f5-c286-492b-b865-f3e4c1f9def8" name="Changes" comment="" />
+      <created>1739862305275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739862305275</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
