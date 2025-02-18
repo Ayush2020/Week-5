@@ -9,7 +9,7 @@ public class WriteCSV {
         // Define the file path where the CSV file will be created
         String filePath = "D:/IntelliC/Week5/Day1/src/main/java/org/Capgemini/CSVDataHandling/WriteCSV/output.csv";
 
-        
+
         // Use try-with-resources to automatically close the BufferedWriter after use
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(filePath))) {
 
