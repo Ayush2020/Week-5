@@ -1,0 +1,6 @@
+ID,Name,Email,Phone
+101,John,john.doe@example.com,1234567890
+102,Jane,jane.doe@example,987654321
+103,Alex,alex@company.com,1122334455
+104,Emma,emma@example.com,9876543210
+105,Michael,invalid.email.com,12345
