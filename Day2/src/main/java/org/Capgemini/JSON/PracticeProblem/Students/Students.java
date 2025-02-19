@@ -1,4 +1,4 @@
-package org.Capgemini.JSON.Students;
+package org.Capgemini.JSON.PracticeProblem.Students;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
