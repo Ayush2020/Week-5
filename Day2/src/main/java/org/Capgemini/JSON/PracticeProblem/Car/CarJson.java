@@ -1,4 +1,4 @@
-package org.Capgemini.JSON.Car;
+package org.Capgemini.JSON.PracticeProblem.Car;
 
 import com.google.gson.Gson;
 
