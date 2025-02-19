@@ -1,4 +1,4 @@
-package org.Capgemini.JSON.PracticeProblem.ParseJSON;
+package org.Capgemini.JSON.HandsOnProblems.ParseJSON;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
