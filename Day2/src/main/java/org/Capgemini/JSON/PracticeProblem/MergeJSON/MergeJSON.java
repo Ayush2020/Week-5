@@ -9,8 +9,8 @@ public class MergeJSON {
         Gson gson = new Gson();
 
         // Define two JSON strings (json1 and json2) to represent two JSON objects
-        String json1 = "{\"name\": \"John Doe\", \"email\": \"john.doe@example.com\"}";
-        String json2 = "{\"age\": 30, \"address\": \"123 Main Street\"}";
+        String json1 = "{\"name\": \"Ayush\", \"email\": \"ayush.g@example.com\"}";
+        String json2 = "{\"age\": 30, \"address\": \"Bhopal\"}";
 
         // Parse the first JSON string into a JsonObject (jsonObject1)
         JsonObject jsonObject1 = gson.fromJson(json1, JsonObject.class);
