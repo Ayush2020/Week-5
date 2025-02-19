@@ -1,7 +1,5 @@
 package org.Capgemini.JSON.Students;
 
-import org.json.JSONArray;
-import org.json.JSONObject;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
