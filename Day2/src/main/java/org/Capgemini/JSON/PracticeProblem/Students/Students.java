@@ -14,7 +14,7 @@ public class Students {
         ObjectNode studentJson = objectMapper.createObjectNode();
 
         // Add fields to the JSON Object
-        studentJson.put("name", "John Doe");
+        studentJson.put("name", "Ayush");
         studentJson.put("age", 21);
 
         // Create a JSON Array (ArrayNode) for subjects
